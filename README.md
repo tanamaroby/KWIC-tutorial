@@ -1,3 +1,3 @@
-##ここは私のプロジェクト。フォオクしないでください！。
+## ここは私のプロジェクト。フォオクしないでください！。
 
-##Ini adalah projek saya. Mohon jangan di garpu!
+## Ini adalah projek saya. Mohon jangan di garpu!
